@@ -1,0 +1,8 @@
+C:\Users\amdubedy\desktop\mywork\Triangles\bin\Debug\netcoreapp1.1\triangles.deps.json
+C:\Users\amdubedy\desktop\mywork\Triangles\bin\Debug\netcoreapp1.1\triangles.runtimeconfig.json
+C:\Users\amdubedy\desktop\mywork\Triangles\bin\Debug\netcoreapp1.1\triangles.runtimeconfig.dev.json
+C:\Users\amdubedy\desktop\mywork\Triangles\bin\Debug\netcoreapp1.1\triangles.dll
+C:\Users\amdubedy\desktop\mywork\Triangles\bin\Debug\netcoreapp1.1\triangles.pdb
+C:\Users\amdubedy\desktop\mywork\Triangles\obj\Debug\netcoreapp1.1\triangles.AssemblyInfo.cs
+C:\Users\amdubedy\desktop\mywork\Triangles\obj\Debug\netcoreapp1.1\triangles.dll
+C:\Users\amdubedy\desktop\mywork\Triangles\obj\Debug\netcoreapp1.1\triangles.pdb
